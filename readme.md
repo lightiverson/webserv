@@ -1,9 +1,11 @@
 # Webserv
 
-This project is about writing your own HTTP server. You will be able to test it with a real browser. HTTP is one of the most used protocol on internet. Knowing its arcane will be useful.
+Write your own HTTP server in C++. Resilience is key. Your server must remain operational at all times.
 
+The goal is to understand the intricacies of the HTTP protocol. It's one of the most widely used protocols on the internet. Read the RFCs defining the HTTP protocol, and compare your program’s behaviour with NGINX’s.
 
-## Documentation
+Grade: 100/100
+## Resources
 
 - Beej's guide to network programming
     - https://beej.us/guide/bgnet/html/#poll
@@ -22,3 +24,9 @@ This project is about writing your own HTTP server. You will be able to test it 
     - https://www.manning.com/books/illustrated-guide-to-http?new=true&experiment=B
 - Better RFC
     - https://httpwg.org
+
+## Contributors
+
+@ivork95
+
+@ArthurBeznik
